@@ -1,4 +1,4 @@
-package com.rjfun.cordova.plugin;
+package com.blackpositive.cordova.plugin;
 
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;

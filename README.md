@@ -2,10 +2,6 @@
 
 AdMob Cordova Plugin, provides a way to request AdMob ads natively from JavaScript. 
 
-# Notice #
-
-[AdMob Plugin Pro](https://github.com/grago/cordova-admob-pro) is more recommended, which is the enhanced version of this plugin. 
-
 Highlights:
 - [x] Support Banner Ad and Interstitial Ad.
 - [x] Multiple banner size, also support custom size.
@@ -45,7 +41,7 @@ To install this plugin, follow the [Command-line Interface Guide](http://cordova
     
 Or,
 
-    cordova plugin add com.rjfun.cordova.plugin.admob
+    cordova plugin add com.blackpositive.cordova.plugin.admob
 
 Note: ensure you have a proper AdMob account and create an Id for your app.
 
@@ -57,11 +53,11 @@ Note: ensure you have a proper AdMob account and create an Id for your app.
     cordova platform add ios
 
     // cordova will handle dependency automatically
-    cordova plugin add com.rjfun.cordova.plugin.admob
+    cordova plugin add com.blackpositive.cordova.plugin.admob
 
     // now remove the default www content, copy the demo html file to www
     rm -r www/*;
-    cp plugins/com.rjfun.cordova.plugin.admob/test/index.html www/
+    cp plugins/com.blackpositive.cordova.plugin.admob/test/index.html www/
 
     cordova prepare; cordova run android; cordova run ios;
     // or import into Xcode / eclipse
@@ -156,10 +152,4 @@ iPad, landscape:
 Android:
 
 ![ScreenShot](demo/admob-android.jpg)
-
-## See Also ##
-
-Cordova/PhoneGap plugins for the world leading Mobile Ad services:
-
-* [AdMob Plugin Pro](https://github.com/grago/cordova-admob-pro), enhanced Google AdMob plugin, easy API and more features.
 
