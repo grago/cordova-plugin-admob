@@ -4,7 +4,7 @@ AdMob Cordova Plugin, provides a way to request AdMob ads natively from JavaScri
 
 # Notice #
 
-[AdMob Plugin Pro](https://github.com/floatinghotpot/cordova-admob-pro) is more recommended, which is the enhanced version of this plugin. 
+[AdMob Plugin Pro](https://github.com/grago/cordova-admob-pro) is more recommended, which is the enhanced version of this plugin. 
 
 Highlights:
 - [x] Support Banner Ad and Interstitial Ad.
@@ -30,8 +30,6 @@ News:
 - Recommended by Arne in Scirra Game Dev Forum (07 Aug, 2014), [read more ...](https://www.scirra.com/forum/plugin-admob-ads-for-crosswalk_t111940)
 - Recommended by Intel XDK team (08/22/2014), [read more ...](https://software.intel.com/en-us/html5/articles/adding-google-play-services-to-your-cordova-application)
 
-More Cordova plugins by Raymond Xie, [click here](http://floatinghotpot.github.io/).
-
 Will this project continue? Yes. This project will continue to be maintained and supported.
 
 ## Platform SDK supported ##
@@ -43,7 +41,7 @@ Will this project continue? Yes. This project will continue to be maintained and
 ## How to use? ##
 To install this plugin, follow the [Command-line Interface Guide](http://cordova.apache.org/docs/en/edge/guide_cli_index.md.html#The%20Command-line%20Interface).
 
-    cordova plugin add https://github.com/floatinghotpot/cordova-plugin-admob.git
+    cordova plugin add https://github.com/grago/cordova-plugin-admob.git
     
 Or,
 
@@ -163,13 +161,5 @@ Android:
 
 Cordova/PhoneGap plugins for the world leading Mobile Ad services:
 
-* [AdMob Plugin Pro](https://github.com/floatinghotpot/cordova-admob-pro), enhanced Google AdMob plugin, easy API and more features.
-* [mMedia Plugin Pro](https://github.com/floatinghotpot/cordova-plugin-mmedia), enhanced mMedia plugin, support impressive video Ad.
-* [MobFox Plugin Pro](https://github.com/floatinghotpot/cordova-mobfox-pro), enhanced MobFox plugin, support video Ad and many other Ad network with server-side integration.
-* [iAd Plugin](https://github.com/floatinghotpot/cordova-plugin-iad), Apple iAd service. 
-* [FlurryAds Plugin](https://github.com/floatinghotpot/cordova-plugin-flurry), Yahoo Flurry Ads service.
-
-More Cordova/PhoneGap plugins by Raymond Xie, [click here](http://floatinghotpot.github.io/).
-
-Project outsourcing and consulting service is also available. Please [contact us](http://floatinghotpot.github.io) if you have the business needs.
+* [AdMob Plugin Pro](https://github.com/grago/cordova-admob-pro), enhanced Google AdMob plugin, easy API and more features.
 
